@@ -1,8 +1,6 @@
 # Fuel-Monitoring-Dashboard
-Fuel monitoring dashboard for identifying potential monitoring priority areas using terrain, fuels, vegetation structure, and fuel moisture data in the central coast of California.
-# Fuel Monitoring Dashboard
 
-This project is an open-source dashboard being developed to help identify potential fuel monitoring priority areas using spatial layers related to terrain, fuels, vegetation structure, and fuel moisture.
+This project is a dashboard being developed to help identify potential fuel monitoring priority areas using spatial layers related to terrain, fuels, vegetation structure, and fuel moisture.
 
 ## Project goal
 
